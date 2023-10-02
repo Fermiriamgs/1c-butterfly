@@ -7,7 +7,7 @@ body {
     background-color: aqua;
 
 }
-#banner {
+#banner{
     width: 100%;
 }
 
@@ -16,4 +16,12 @@ h1 {
     color: blueviolet;
     text-align: center;
     text-transform: uppercase;
+}
+.textos {
+    width: 80%
+    align-content:auto 
+    margin: auto;
+    font-size: 30px;
+    text-align: center;
+    color: yellow;
 }
