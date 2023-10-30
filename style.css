@@ -29,6 +29,16 @@
    padding: 20px;
  }
 
+ nav a {
+   text-transform: uppercase;
+   font-size: 30px;
+   color: white;
+   text-decoration: none;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: lighter;
+   
+ }
+
  
  
  #banner {
